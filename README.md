@@ -1,14 +1,23 @@
 # Google_Advanced_Data_Analystics_Capstone_Project
-The Google Advanced Data Analytics Capstone project focused on Salifort Motors, a leading automobile manufacturer. The objective was to analyze and leverage data to optimize various aspects of the company's operations, including production, sales, and customer satisfaction.
+Throughout the capstone project, I have used the skills and experience that I acquired in each course and the accompanying end-of-course projects. The capstone project scenario will offer opportunities to:
 
-I started by collecting and integrating data from multiple sources, including production records, sales transactions, customer feedback, and market trends. Through data cleaning and preprocessing, I ensured data accuracy and consistency.
+  1.Gather information pertaining to a business problem or an organizational inquiry 
+  
+  2.Answer questions relevant to coding with Python 
+  
+  3.Conduct exploratory data analysis
+  
+  4.Build statistical data models and machine learning models
+  
+  5.Consider ethical issues related to the task
+  
+  6.Present your findings for a general audience of stakeholders
+# Capstone project scenario overview: Working for Salifort Motors     
+## About the company
+Salifort Motors is a fictional French-based alternative energy vehicle manufacturer. Its global workforce of over 100,000 employees research, design, construct, validate, and distribute electric, solar, algae, and hydrogen-based vehicles. Salifort’s end-to-end vertical integration model has made it a global leader at the intersection of alternative energy and automobiles.        
 
-Using statistical analysis techniques, I identified patterns and trends in the data to gain insights into production efficiency, sales performance, and customer preferences. This enabled me to make data-driven recommendations for improving operational efficiency, identifying popular vehicle models, and optimizing the supply chain.
+## My business case
+As a data specialist working for Salifort Motors, I have received the results of a recent employee survey. The senior leadership team has tasked me with analyzing the data to come up with ideas for how to increase employee retention. To help with this, they would like me to design a model that predicts whether an employee will leave the company based on their  department, number of projects, average monthly hours, and any other data points you deem helpful. 
 
-Additionally, I conducted sentiment analysis on customer feedback data to understand customer satisfaction levels and identify areas for improvement. This information was instrumental in enhancing customer experience, guiding product development, and tailoring marketing strategies to meet customer expectations.
-
-To predict future sales and demand, I developed machine learning models that incorporated historical sales data, market trends, and external factors. These models provided accurate forecasts, allowing Salifort Motors to optimize inventory management, production planning, and sales strategies.
-
-Throughout the project, I utilized data visualization techniques to create interactive dashboards and reports. These visually appealing representations of the data facilitated easy interpretation and helped stakeholders understand key insights and trends at a glance.
-
-The Google Advanced Data Analytics Capstone project on Salifort Motors showcased my ability to handle complex datasets, apply advanced statistical analysis, and derive actionable insights. It demonstrated my skills in leveraging data to drive decision making and provided valuable recommendations to enhance Salifort Motors' operational efficiency, sales performance, and customer satisfaction.
+## The value of your deliverable
+For this deliverable, I am asked to choose a method to approach this data challenge based on my prior course work. Select either a regression model or a machine learning model to predict whether an employee will leave the company. Both approaches are shown in the project.
